@@ -1,8 +1,6 @@
-﻿# Virtual Reality Hockey Game
-
 # 🏒 Virtual Reality Hockey Game
 
-An immersive virtual reality hockey experience built in Unity.  
+A virtual reality hockey experience built in Unity.  
 This project simulates a realistic hockey environment using motion-tracked controllers and real-time physics for engaging gameplay.
 
 ---
@@ -15,6 +13,7 @@ This project simulates a realistic hockey environment using motion-tracked contr
   - Scripts and prefabs
 - **ProjectSettings/** – Unity configuration files for graphics, input, physics, memory usage, and more
 - **Library/** – Automatically generated Unity metadata and package cache (not recommended for version control)
+- **MyOwnVRGame.sln** - Main game file used to play
 
 ---
 
@@ -30,14 +29,9 @@ This project simulates a realistic hockey environment using motion-tracked contr
 
 ## 🛠️ Built With
 
-- **Unity [your version]**
-- **OpenXR** or **SteamVR/Oculus SDK**
+- **Unity 2022.3.23**
+- **OpenXR** 
 - **C#**
 
 ---
 
-## 🎮 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/vr-hockey-game.git
